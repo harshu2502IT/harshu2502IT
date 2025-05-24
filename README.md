@@ -1,16 +1,39 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Harshwardhan</h1>
+<h3 align="center">Aspiring Data Analyst | Python • SQL • Excel</h3>
 
-<!--
-**harshu2502IT/harshu2502IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GitHub Banner -->
+<p align="center">
+  <img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Developer.gif" width="50%" alt="coding" />
+</p>
 
-Here are some ideas to get you started:
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- About Section -->
+### 🙋‍♂️ About Me
+- 🎓 I'm currently pursuing **Data Analytics**
+- 🌱 I’m improving my skills in **Data Visualization & BI Tools**
+- 💼 I’m open to internship opportunities in **Data Analysis or Business Intelligence**
+- 📫 How to reach me: [barkuleharshwardhan2005@gmail.com]  
+- 📊 I love working with **data** to find insights & make data-driven decisions!
+
+<!-- GitHub Stats -->
+### 📈 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshu2502IT&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshu2502IT&theme=radical" width="48%"/>
+</p>
+
+<!-- Tools -->
+### 🛠️ Tools & Technologies
+```css
+Languages:     Python, SQL, Markdown  
+Data Handling: Excel, Pandas, NumPy  
+Visualization: Matplotlib, Seaborn, Excel Charts  
+Database:      MySQL, PostgreSQL  
+
