@@ -2,10 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harshwardhan</h1>
 <h3 align="center">Aspiring Data Analyst | Python • SQL • Excel</h3>
 
-<!-- GitHub Banner -->
-<p align="center">
-  <img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Developer.gif" width="50%" alt="coding" />
-</p>
+
 
 <!-- Badges -->
 <p align="center">
