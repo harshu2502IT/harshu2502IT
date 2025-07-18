@@ -16,7 +16,7 @@
 - 🎓 I'm currently pursuing **Data Analytics**
 - 🌱 I’m improving my skills in **Data Visualization & BI Tools**
 - 💼 I’m open to internship opportunities in **Data Analysis or Business Intelligence**
-- 📫 How to reach me: [barkuleharshwardhan2005@gmail.com]  
+- 📫 How to reach me: [harshbarkule2502@gmail.com]  
 - 📊 I love working with **data** to find insights & make data-driven decisions!
 
 <!-- GitHub Stats -->
