@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Harshwardhan</h1>
-<h3 align="center">Aspiring Data Analyst | Python • SQL • Excel</h3>
+<h1 align="center">Hi,I'm Harshwardhan</h1>
+<h3 align="center">Aspiring Data Analyst</h3>
 
 
 
